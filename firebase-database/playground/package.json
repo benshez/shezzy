@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "@shezzy/firebase-database-playground",
+  "scripts": {
+    "postinstall": "patch-package"
+  },
+  "dependencies": {
+    "@firebase/app-types": "^0.9.0",
+    "firebase": "^9.17.2",
+    "firebase-admin": "^11.5.0",
+    "patch-package": "^6.5.1"
+  }
+}

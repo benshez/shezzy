@@ -1,0 +1,3 @@
+imports.autoImport=true
+typescript.includeWorkspace=true
+failOnWarn=false

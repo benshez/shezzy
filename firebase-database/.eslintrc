@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "options": {
+    "failOnWarning": false
+  },
+  "extends": [
+    "@nuxt/eslint-config"
+  ]
+}
